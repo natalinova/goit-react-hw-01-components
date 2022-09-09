@@ -8,7 +8,6 @@ export default function Profile ({ username, tag, location, avatar, stats:{follo
             <img className={css.avatar}
                 src={avatar}
                 alt={username}
-                
             />
             <p className={css.name}>{username}</p>
             <p className={css.tag}>@{tag}</p>   
