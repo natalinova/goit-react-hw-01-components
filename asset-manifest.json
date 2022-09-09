@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/natalinova/goit-react-hw-01-components.git/static/css/main.7acaea2f.css",
-    "main.js": "/natalinova/goit-react-hw-01-components.git/static/js/main.07d3183d.js",
-    "index.html": "/natalinova/goit-react-hw-01-components.git/index.html",
-    "main.7acaea2f.css.map": "/natalinova/goit-react-hw-01-components.git/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/natalinova/goit-react-hw-01-components.git/static/js/main.07d3183d.js.map"
+    "main.css": "/natalinova/goit-react-hw-01-components/static/css/main.97f05388.css",
+    "main.js": "/natalinova/goit-react-hw-01-components/static/js/main.26bfb74c.js",
+    "index.html": "/natalinova/goit-react-hw-01-components/index.html",
+    "main.97f05388.css.map": "/natalinova/goit-react-hw-01-components/static/css/main.97f05388.css.map",
+    "main.26bfb74c.js.map": "/natalinova/goit-react-hw-01-components/static/js/main.26bfb74c.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.97f05388.css",
+    "static/js/main.26bfb74c.js"
   ]
 }
